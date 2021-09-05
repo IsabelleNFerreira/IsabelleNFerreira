@@ -13,8 +13,12 @@ Tenho 19 anos, e a alguns anos descobri minha paixão por algoritmos e programa�
 
 #### > Bem vindo(a) ao meu GitHub!✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleNFerreira&theme=radical)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleNFerreira&show_icons=true&theme=radical) 
-
+<div>
+  <a href="https://github.com/IsabelleNFerreira">
+  <!Stats> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsabelleNFerreira&show_icons=true&theme=radical"/> 
+  <!Top Langs> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleNFerreira&layout=compact&langs_count=7&theme=radical"/>
+</div>
+                                                                                                                         
 ---
 
 #### Habilidades:
