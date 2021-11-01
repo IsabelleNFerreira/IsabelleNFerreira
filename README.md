@@ -1,7 +1,7 @@
 ## Olá 👋😊
 Meu nome é Isabelle Nunes!
 
-Tenho 19 anos, e a alguns anos descobri minha paixão por algoritmos e programação.
+Tenho 20 anos, e a alguns anos descobri minha paixão por algoritmos e programação.
 
 - *📍 Sou do Rio de Janeiro;*
 - *📚 Estou cursando 5° semestre de Ciência da Computação no [Centro Universitário UniCarioca](https://www.unicarioca.edu.br/);*
