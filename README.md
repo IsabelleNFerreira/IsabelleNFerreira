@@ -4,7 +4,7 @@ Meu nome é Isabelle Nunes!
 Tenho 22 anos, e a alguns anos descobri minha paixão por algoritmos e programação.
 
 - *📍 Sou do Rio de Janeiro;*
-- *📚 Em 2014 me graduei em Ciência da Computação no [Centro Universitário UniCarioca](https://www.unicarioca.edu.br/);*
+- *📚 Em 2024 me graduei em Ciência da Computação no [Centro Universitário UniCarioca](https://www.unicarioca.edu.br/);*
 - *🥇 Ganhei na faculdade o 1° lugar no Programa de Qualidade Interna em  2019.2 com maior Coeficiente de Rendimento;*
 - *🥇 Aprovada em 1° lugar na bolsa de Iniciação Científica da faculdade;*
 - *💻 Fui participante da edição de 2021 do [Projeto Matrix](http://www.projetomatrix.com/).*
